@@ -9,7 +9,7 @@ To run:
 
 3. On the Terminal, cd to the newly created projects folder
 
-4. On the terminal, execute: git clone 
+4. On the terminal, execute: git clone https://iani@github.com/iani/simplecinderprojectrepotest.git
 
 5. To to folder testproject1, find and open xcode/testproject1.xcodeproj with XCode and Build / Run the project
 
